@@ -46,8 +46,14 @@ public class CountdownGame {
     }
 
     public static void main(String[] args) {
-        int[] numbers = {100, 2, 75, 3, 1, 10};
-        int total = 848;
+//        int[] numbers = {100, 2, 75, 3, 1, 10};
+//        int total = 848;
+//        int[] numbers = {50, 75, 1, 4, 3, 6};
+//        int total = 472;
+//	    int[] numbers = {100, 10, 1, 1, 4, 9};
+//	    int total = 285;
+	    int[] numbers = {50, 75, 1, 4, 3, 6};
+	    int total = 472;
 
         CountdownGame game = new CountdownGame();
 
